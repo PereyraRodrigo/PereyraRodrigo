@@ -15,6 +15,9 @@
   <a href="https://github.com/SebastianRost/pagina-hoteleria"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianRost&repo=pagina-hoteleria&langs_count=3&layout=compact&theme=chartreuse-dark">
   <a href="https://github.com/SebastianRost/TP_Laboratorio_1_2021"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianRost&card_height=300&&repo=TP_Laboratorio_1_2021&langs_count=5&layout=compact&theme=chartreuse-dark">-->
 </p>
+    
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PereyraRodrigo&repo=github-readme-stats)](https://github.com/PereyraRodrigo/Aviel)
+
 
 <br />
     
