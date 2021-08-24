@@ -12,14 +12,14 @@ I’m looking forward to taking my very fist steps in the IT professional world,
 - 📫 You can find me in <a href="https://www.linkedin.com/in/pereyrarodrigo/">LinkedIn</a>
 
 
-## My stats
+## My stats 📝📝📝
 
 <p align="left">
   <a href="https://github.com/PereyraRodrigo"><img width="400" src="https://github-readme-stats.vercel.app/api?username=PereyraRodrigo&show_icons=true&theme=chartreuse-dark">
   <a href="https://github.com/PereyraRodrigo"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereyraRodrigo&hide=scss,c,hack,makefile&langs_count=10&layout=compact&theme=chartreuse-dark">
 </p>
     
-## About me
+## About me 📚📚📚
     
   <p>
       I’m highly perfectionist, analytical and flexible, but most importantly I’m remarkably meticulous. I’ve got a C1 English level. I’m fluent in both speaking and writing, as I’ve been studying since I was a kid. I also consider that I have great soft skills, such as communication, team-oriented personality and decisiveness, among others.
