@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[linkedin]:
-[instagram]:
+[linkedin]: https://www.linkedin.com/in/pereyrarodrigo/
+[instagram]: https://www.instagram.com/rodrigoelianp/
