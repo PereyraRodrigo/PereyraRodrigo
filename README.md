@@ -6,6 +6,10 @@ My two years academic experience in design developed in me a highly meticulous s
 I’m looking forward to taking my very fist steps in the IT professional world, so I can increase my knowledge by learning as much as possible in a professional environment.
 </p>
 
+- 🔭 I’m currently working on building an ecommerce as a final project for my JavaScript course on Coderhouse.
+- 🌱 I’m currently learning Javascript
+
+
 ## My stats
 
 <p align="left">
