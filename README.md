@@ -21,9 +21,9 @@ I’m looking forward to taking my very fist steps in the IT professional world,
     
 ## About me
     
-    <p>
+  <p>
       I’m highly perfectionist, analytical and flexible, but most importantly I’m remarkably meticulous. I’ve got a C1 English level. I’m fluent in both speaking and writing, as I’ve been studying since I was a kid. I also consider that I have great soft skills, such as communication, team-oriented personality and decisiveness, among others.
-    </p>
+  </p>
       
 ## Contact Me
 
