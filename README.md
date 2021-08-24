@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 <p>
-  I’m 21 years old. I’m a web development student, and I’ve recently studied Graphic Design in college. <br>  
+  I’m 21 years old. I’m a web development student, and I’ve recently studied Graphic Design in college. <br><br>   
 My two years academic experience in design developed in me a highly meticulous sense of aesthetic, along with an exceedingly attention to every single detail, which is distinctly reflected on my web development projects.<br> 
 I’m looking forward to taking my very fist steps in the IT professional world, so I can increase my knowledge by learning as much as possible in a professional environment.
 
