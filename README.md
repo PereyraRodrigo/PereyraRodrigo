@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hey what's up 👋👋👋
 <p>
 My name is Rodrigo. I'm from Argentina and <strong>I’m looking to become the greatest developer I can possible be.</strong> <br><br> 
 I’m 21 years old. I’m a web development student, and I’ve recently studied Graphic Design in college. <br><br>   
