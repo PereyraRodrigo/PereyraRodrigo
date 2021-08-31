@@ -13,12 +13,20 @@ I’m looking forward to taking my very fist steps in the IT professional world,
 - 📫 You can find me in <a href="https://www.linkedin.com/in/pereyrarodrigo/">LinkedIn</a> or <a href="mailto:pereyrarodrigo@hotmail.com">Email</a>
 
 
-## My stats 📝📝📝
+## My stats 📝📝📝 ![Profile views](https://gpvc.arturio.dev/PereyraRodrigo) 
+
+
+
+
 
 <p align="left">
   <a href="https://github.com/PereyraRodrigo"><img width="400" src="https://github-readme-stats.vercel.app/api?username=PereyraRodrigo&show_icons=true&theme=chartreuse-dark">
   <a href="https://github.com/PereyraRodrigo"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereyraRodrigo&hide=scss,c,hack,makefile&langs_count=10&layout=compact&theme=chartreuse-dark">
 </p>
+    
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PereyraRodrigo) 
+
     
 ## About me 📚📚📚
     
@@ -26,10 +34,16 @@ I’m looking forward to taking my very fist steps in the IT professional world,
       I’m highly perfectionist, analytical and flexible, but most importantly I’m remarkably meticulous. I’ve got a C1 English level. I’m fluent in both speaking and writing, as I’ve been studying since I was a kid. I also consider that I have great soft skills, such as communication, team-oriented personality and decisiveness, among others.
   </p>
       
+     
+    
 ## Contact Me
 
 [<img align="left" alt="Pereyra Rodrigo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Pereyra Rodrigo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+    
+ 
+
+ 
 
 <!--
 **PereyraRodrigo/PereyraRodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
