@@ -2,14 +2,14 @@
 ### Hey what's up 👋👋👋
 <p>
 My name is Rodrigo. I'm from Argentina and I'm looking forward to fulfil a single goal: <br>
-  <h3>To become the greatest developer I can possible be.</h3> <br> 
+  <h3>To become the greatest developer I can possible be.</h3>(As cliché as it may sound) <br> <br>  
 I’m 21 years old. I’m a web development student, and I’ve recently studied Graphic Design in college. <br>  
 My two years academic experience in design developed in me a highly meticulous sense of aesthetic, along with an exceedingly attention to every single detail, which is distinctly reflected on my web development projects.<br><br>  
 I’m looking forward to taking my very fist steps in the IT professional world, so I can increase my knowledge by learning as much as possible in a professional environment.
 </p>
 
-- 🔭 I’m currently working on building an ecommerce as a final project for my JavaScript course on Coderhouse.
 - 💡 I’m currently learning Javascript.
+- 🔭 I’m currently working on building an ecommerce as a final project for my JavaScript course in Coderhouse. (https://pereyrarodrigo.github.io/JsEcommerce/)
 - 📫 You can find me in <a href="https://www.linkedin.com/in/pereyrarodrigo/">LinkedIn</a> or <a href="mailto:pereyrarodrigo@hotmail.com">Email</a>
 
 
