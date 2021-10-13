@@ -9,7 +9,7 @@ I’m looking forward to taking my very fist steps in the IT professional world,
 </p>
 
 - 💡 I’m currently learning Javascript.
-- 🔭 I’m currently working on building an ecommerce as a final project for my JavaScript course in Coderhouse. (https://pereyrarodrigo.github.io/Unfamiliar/)
+- 🔭 I’m currently working on building an ecommerce as a final project for my JavaScript course in Coderhouse. (https://allsaintsproject.netlify.app/)
 - 📫 You can find me in <a href="https://www.linkedin.com/in/pereyrarodrigo/">LinkedIn</a> or <a href="mailto:pereyrarodrigo@hotmail.com">Email</a>
 
 
