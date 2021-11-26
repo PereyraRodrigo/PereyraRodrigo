@@ -8,7 +8,7 @@ My two year academic experience in design developed in me a highly meticulous se
 I’m looking forward to taking my very fist steps in the IT professional world, so I can increase my knowledge by learning as much as possible in a professional environment.
 </p>
 
-- 💡 I’m currently learning Javascript.
+- 💡 I’m currently learning React Js.
 - 🔭 I’m currently working on building an ecommerce as a final project for my JavaScript course in Coderhouse. (https://unfamiliar.netlify.app/)
 - 📫 You can find me in <a href="https://www.linkedin.com/in/pereyrarodrigo/">LinkedIn</a> or <a href="mailto:pereyrarodrigo@hotmail.com">Email</a>
 
